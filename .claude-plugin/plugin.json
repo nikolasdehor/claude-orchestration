@@ -1,0 +1,21 @@
+{
+  "name": "claude-orchestration",
+  "description": "Multi-agent orchestration guidelines for Claude Code: Delegate Over Execute, Teams Are Mortal, Trust But Verify, Surgical Delegation, Language Discipline",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nikolas de Hor",
+    "email": "nikolasdehor79@gmail.com",
+    "url": "https://github.com/nikolasdehor"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nikolasdehor/claude-orchestration",
+  "repository": "https://github.com/nikolasdehor/claude-orchestration",
+  "keywords": [
+    "claude-code",
+    "orchestration",
+    "multi-agent",
+    "agent-teams",
+    "guidelines"
+  ],
+  "skills": ["./skills/claude-orchestration"]
+}
